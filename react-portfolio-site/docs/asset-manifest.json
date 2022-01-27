@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/daideguchi/api_works/static/css/main.5b747e17.css",
+    "main.js": "/daideguchi/api_works/static/js/main.ac57d060.js",
+    "static/js/787.ce9a24bf.chunk.js": "/daideguchi/api_works/static/js/787.ce9a24bf.chunk.js",
+    "static/media/profile-image.png": "/daideguchi/api_works/static/media/profile-image.f924a74ddc498b3eb0cb.png",
+    "static/media/cover-image.jpg": "/daideguchi/api_works/static/media/cover-image.87fe604e2d258af00dd1.jpg",
+    "index.html": "/daideguchi/api_works/index.html",
+    "main.5b747e17.css.map": "/daideguchi/api_works/static/css/main.5b747e17.css.map",
+    "main.ac57d060.js.map": "/daideguchi/api_works/static/js/main.ac57d060.js.map",
+    "787.ce9a24bf.chunk.js.map": "/daideguchi/api_works/static/js/787.ce9a24bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b747e17.css",
+    "static/js/main.ac57d060.js"
+  ]
+}
